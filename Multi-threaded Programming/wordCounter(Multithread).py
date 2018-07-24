@@ -1,4 +1,11 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+'''
+Count words from millions of files to record each word's frequency as fast as you can
+Assuming 10 Core processor
+Using MapReduce model to split files to 20 threads. Each thread stores local results and
+after all threads are done their work main thread acts as reducer to combine all results
+computed by all mapper threads.
+'''
 import sys
 import os
 import threading
