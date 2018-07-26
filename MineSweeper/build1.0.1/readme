@@ -1,0 +1,12 @@
+build 1.0.1
+New:
+1. solved memory leak
+2. added auto expand function by middle mouse button
+3. slight animation
+4. colored tiles
+5. background image
+6. independent option window
+7. key bindings: r - restart same game, g - reset new game(current settings), o - open option window
+
+Problems:
+to be found
