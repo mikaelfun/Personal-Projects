@@ -1,0 +1,10 @@
+First edition:
+Functions:
+1. reveal, flag, mark(?)
+2. new game
+3. resize
+
+Problems:
+1. slight memory leak
+2. no animation
+3. no auto expand function
