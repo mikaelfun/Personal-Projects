@@ -1,7 +1,0 @@
-64 bit publish guide(default python version)
-
-cd C:\Users\Kun\PycharmProjects\Game_Project\MineSweeperVideoVer
-
-pyinstaller --onefile --icon=Img\minesweeper.ico --clean --windowed Main_game.py Globals.py Sprites.py InputBox.py
-
-then copy Img folder to exe directory
